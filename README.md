@@ -1,3 +1,4 @@
-This project is an inventory manager for restaurant that allows the user to calculate total cost of items ordered as well as the amount of items cases to be expected on the next shipment
-This project used an XAMPP localized server to store and manage data to enable a user login page as well as store data that is inputted into the inventory management application using a mysql database
-This project was completed as part of my INEW comprehensive software design implementation coding and testing course needed to obtain my AAS computer programming degree
+Hello! My name is @Hobson37
+This is a collection of projects that I have completed 
+I am currently pursuing a Bachelor's degree in Cybersecurity and have attained an Associates of Applied Science degree in computer programming
+These projects are HTML based sites and showcases my skills with HTML, PHP, Javascript, as well as maintaining a localized database using XAMPP Apache server and myql to store data
